@@ -12,7 +12,7 @@ export default function Footer() {
                 <Image src="/icon/footer.svg" width={60} height={60} />
               </a>
               <p className="mt-30 text-lg color-palette-1 mb-30">
-                StoreGG membantu gamers
+                NozaStore membantu gamers
                 {' '}
                 <br />
                 {' '}
