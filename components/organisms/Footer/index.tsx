@@ -56,13 +56,13 @@ export default function Footer() {
                       href="mailto: team@store.gg"
                     />
                     <FootItem
-                      title="Pasific 12, Jakarta Selatan"
+                      title="Magelang, Jawa Tengah"
                       href="http://maps.google.com/?q=Pasific 12,
                                         Jakarta Selatan"
                     />
                     <FootItem
-                      title="021 - 1122 - 9090"
-                      href="tel: 02111229090"
+                      title="0851 - 5615 - 5816"
+                      href="tel: 085156155816"
                     />
                   </ul>
                 </div>
